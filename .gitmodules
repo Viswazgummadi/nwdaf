@@ -1,0 +1,6 @@
+[submodule "oai-cn5g-fed"]
+	path = oai-cn5g-fed
+	url = https://github.com/OpenAirInterface/oai-cn5g-fed.git
+[submodule "oai-cn5g-nwdaf"]
+	path = oai-cn5g-nwdaf
+	url = https://github.com/OpenAirInterface/oai-cn5g-nwdaf.git
