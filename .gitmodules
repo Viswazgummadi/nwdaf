@@ -4,3 +4,6 @@
 [submodule "oai-cn5g-nwdaf"]
 	path = oai-cn5g-nwdaf
 	url = https://github.com/OpenAirInterface/oai-cn5g-nwdaf.git
+[submodule "openairinterface5g"]
+	path = openairinterface5g
+	url = https://gitlab.eurecom.fr/oai/openairinterface5g.git
